@@ -4,7 +4,7 @@
     "label": "Craftman et Lead-Développeur Front-End",
     "email": "lionel.zuber@armaklan.org",
     "url": "https://armaklan.org",
-    "summary": "Caméléon technique avec une préférence pour le front-end. Software Craftman dans l'âme. Lead et Pédagogue volontaire. Ne demande qu'à continuer d'apprendre et à etre challengé.",
+    "summary": "Caméléon technique avec une préférence pour le front-end. Software Craftman dans l'âme. Lead et Pédagogue volontaire. Ne demande qu'à continuer d'apprendre et à être challengé.",
     "location": {
       "countryCode": "FR",
       "region": "Rhône-Alpes"
@@ -159,11 +159,11 @@
       "type": "application"
     },
     {
-      "name": "Trollune.fr",
+      "name": "Trollune.fr , jsqu'au 2018",
       "description": "Site web de la boutique Trollune",
       "keywords": ["JS", "Web"],
       "startDate": "2012-01-01",
-      "endDate": "2014-01-01",
+      "endDate": "2018-01-01",
       "type": "application"
     }
   ]

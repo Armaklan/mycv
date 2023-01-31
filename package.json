@@ -13,8 +13,8 @@
   "main": "index.js",
   "scripts": {
     "start": "npm run html",
-    "html": "resume export dist/lionel-zuber.html --theme eloquent-mod",
-    "pdf": "resume export dist/lionel-zuber.pdf --theme eloquent-mod",
+    "html": "resume export docs/lionel-zuber.html --theme eloquent-mod",
+    "pdf": "resume export docs/lionel-zuber.pdf --theme eloquent-mod",
     "update": "npm run html && npm run pdf"
   },
   "author": "",
