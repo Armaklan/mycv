@@ -1,10 +1,6 @@
 {
   "dependencies": {
-    "jsonresume-theme-elegant": "^1.16.1",
-    "jsonresume-theme-elegant-pdf": "^1.0.0",
-    "jsonresume-theme-eloquent-mod": "^4.23.0",
-    "jsonresume-theme-even": "^0.17.1",
-    "jsonresume-theme-kendall-plus": "^0.3.0",
+    "jsonresume-theme-eloquent-fr": "LionelZu/jsonresume-theme-eloquent-fr#main",
     "resume-cli": "^3.0.8",
     "resumed": "^3.0.1"
   },
@@ -13,8 +9,8 @@
   "main": "index.js",
   "scripts": {
     "start": "npm run html",
-    "html": "resume export docs/lionel-zuber.html --theme eloquent-mod",
-    "pdf": "resume export docs/lionel-zuber.pdf --theme eloquent-mod",
+    "html": "resume export docs/lionel-zuber.html --theme eloquent-fr",
+    "pdf": "resume export docs/lionel-zuber.pdf --theme eloquent-fr",
     "update": "npm run html && npm run pdf"
   },
   "author": "",

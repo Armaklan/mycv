@@ -1,13 +1,13 @@
 {
   "basics": {
     "name": "Lionel ZUBER",
-    "label": "Craftman et Lead-Développeur Front-End",
-    "email": "lionel.zuber@armaklan.org",
+    "label": "Craftman et Lead-Développeur Front-End. Freelance.",
+    "email": "lionel@fr-zuber.fr",
     "url": "https://armaklan.org",
     "summary": "Caméléon technique avec une préférence pour le front-end. Software Craftman dans l'âme. Lead et Pédagogue volontaire. Ne demande qu'à continuer d'apprendre et à être challengé.",
     "location": {
       "countryCode": "FR",
-      "region": "Rhône-Alpes"
+      "region": "Doubs"
     },
     "profiles": [
       {
@@ -27,6 +27,7 @@
       "company": "NIJI",
       "position": "Lead Front-End",
       "startDate": "2022-04-01",
+      "endDate": "2023-10-01",
       "highlights": [
         "Lead Angular sur un projet pour le client LeCedre.",
         "Encadrement d'un plan \"jeune\" visant \u00e0 former des jeunes dipl\u00f4més ou des reconversions au sein d'un projet client."
@@ -37,7 +38,7 @@
       "position": "Mentor",
       "startDate": "2022-01-01",
       "highlights": [
-        "Accompagnement d'étudiant sur le parcours de développeur d'application web React."
+        "Accompagnement d'étudiants sur le parcours de développeur d'application web React et d'intégrateur Web."
       ]
     },
     {
