@@ -125,11 +125,7 @@
     },
     {
       "name": "Soft Skill",
-      "keywords": [
-        "Architecture",
-        "Gestion d'équipes",
-        "Pédagogie et accompagnement technique"
-      ]
+      "keywords": ["Architecture", "Gestion d'équipes", "Pédagogie"]
     }
   ],
   "interests": [
