@@ -151,7 +151,7 @@
   "projects": [
     {
       "name": "jdRoll",
-      "description": "Plateforme de jeu de rôle par forum",
+      "description": "jdRoll est une plateforme de jeu de rôle par forum. Cela fait maintenant plus de 10 ans que plus de 50 joueurs l'utilisent quotidiennement (plus de 4000 posts par mois).",
       "keywords": ["PHP", "Web"],
       "startDate": "2010-01-01",
       "url": "http://jdroll.org",
@@ -159,7 +159,7 @@
     },
     {
       "name": "FVTT-Tylestel",
-      "description": "Module foundry pour le jeu de rôle Tylestel",
+      "description": "Foundry est une plateforme pour jouer au jeu de rôle en ligne. Avec ce module, j'implémente une fiche de perso ainsi que la gestion du système de jeu pour Tylestel.",
       "keywords": ["JS", "Web"],
       "startDate": "2022-01-01",
       "url": "https://github.com/Armaklan/tylestel",
@@ -167,7 +167,7 @@
     },
     {
       "name": "Trollune.fr , jsqu'au 2018",
-      "description": "Site web de la boutique Trollune",
+      "description": "Trollune est une boutique spécialisé dans le jeu de rôle. En 2018 j'ai transformé leur site statique en site SPIP pour permettre une mise à jour plus aisée.",
       "keywords": ["JS", "Web"],
       "startDate": "2012-01-01",
       "endDate": "2018-01-01",
