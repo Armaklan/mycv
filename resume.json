@@ -4,7 +4,7 @@
     "label": "Craftman et Lead-Développeur Front-End. Freelance.",
     "email": "lionel@fr-zuber.fr",
     "url": "https://armaklan.org",
-    "summary": "Caméléon technique avec une préférence pour le front-end. Software Craftman dans l'âme. Lead et Pédagogue volontaire. Ne demande qu'à continuer d'apprendre et à être challengé.",
+    "summary": "🎨 Expert front-end Angular. \n  🛠️ Craftsman passionnée. \n  🤼🏻 Partage sa connaissance, tire l'équipe vers le haut. \n  🏗️ Cherche à produire de la valeur métier, sur le long terme. \n 📈 Cherche toujours à progresser et à s'améliorer. \n 🔧 Angular, Java, React, ... Je peut m'adapter à vos technologies !",
     "location": {
       "countryCode": "FR",
       "region": "Doubs"
@@ -29,8 +29,9 @@
       "startDate": "2022-04-01",
       "endDate": "2023-10-01",
       "highlights": [
-        "Lead Angular sur un projet pour le client LeCedre.",
-        "Encadrement d'un plan \"jeune\" visant \u00e0 former des jeunes dipl\u00f4més ou des reconversions au sein d'un projet client."
+        "<b>Assistance technique pour Le Cedre</b> , groupement d'achat B2B. L'équipe travaillait sur 2 applications : un ERP interne destiné aux collaborateurs Cèdre, et un extranet destiné à leurs adhérents.<br><br>🧑🏻‍💼 Reprise en main technique de l'équipe front-end, jusqu'alors trop junior<br>💻 Développement de <b>fonctionnalités métiers</b> sur les deux applications<br>🎨 Mise en place d'un <b>design system</b> commun aux deux applications (avec un thème dédié à chacune)<br>🛠️ Mise à jour de l'environnement technique. Amélioration des plateformes de CI pour fluidifier le développement et fiabiliser les livraisons.<br>🧪 Mise en place de bonnes pratiques de tests avec Jest<br>🔧 <b>Angular</b> , Redux, NGRX, PrimeNG, AWS, Storybook<br><br>",
+
+        "<b>Plan de formation Junior Java/Angular</b> : objectif, faire monter en compétences des juniors sur des projets, en collaboration avec nos clients. <br><br> 🤼🏻 Accompagnements de 6 développeurs juniors <br> 🎬 <b>Formations</b> initiales puis <b>Mentoring</b> hebdomadaire <br> 🛃 2 clients différents : Enedis et SLIB <br> 🔧 Angular, <b>Java</b> , <b>Spring</b> , JEE"
       ]
     },
     {
@@ -38,7 +39,7 @@
       "position": "Mentor",
       "startDate": "2022-01-01",
       "highlights": [
-        "Accompagnement d'étudiants sur le parcours de développeur d'application web React et d'intégrateur Web."
+        "OpenclassRoom est une plateforme de formation en ligne. Le programme de Mentoring permet d'accompagner les étudiants en les rencontrant une fois par semaine.<br><br>     🤼🏻 Une dizaine d'étudiants sur 2 ans<br>🎬 Réexpliquer les concepts, répondre aux questions<br>💪🏻 Aider les élèves à garder le cap et la motivation.<br>📋 Faire le reporting de l'avancée de l'élève et s'assurer qu'il termine la formation en temps et en heure.<br>🔧 <b>React JS</b> , Web, Accessibilité"
       ]
     },
     {
@@ -47,40 +48,25 @@
       "startDate": "2018-01-01",
       "endDate": "2022-04-01",
       "highlights": [
-        "Expert front-end Angular",
-        "Lead-Developpeur Full-Stack Java/Angular. Responsable d'une équipe de 5."
+        "Deux projets différents chez Enedis, gestionnaire du réseau électrique. Au cours de ces 5 ans :<br>- CinkeEvolution : outil de planification et de suivi de l'activité technicien<br>- CASA : outil de gestions logicielles des postes sources<br><br>🪐 Feature Team au sein d'un projet de 60 personnes.<br>💻 Interface complète en front-end avec gestion de calendrier, upload de fichier de 1go, constitution de schéma électrique<br>💽 Participation aux API Java/Spring<br>🖼️ Mise en place de l'architecture front-end, architecture Flux.<br>🎨 Développement d'un design-system complet correspondant à l'UI choisis<br>🔧 <b>Angular</b> , Matérial, RXJS, NGS, Websocket, WebWorker, <b>Java</b> , Kafka, Postgresql, Liquibase."
       ]
     },
     {
       "company": "CGI",
       "position": "Lead-Front en prestation chez APRIL Technologie",
-      "startDate": "2015-01-31",
+      "startDate": "2014-01-31",
       "endDate": "2017-01-31",
       "highlights": [
-        "Mise en place de l'architecture front-end.",
-        "Développement en autonomie front Angular.",
-        "Participation au développement back (.NET et Scala)."
-      ]
-    },
-    {
-      "company": "CGI",
-      "position": "Lead-Developpeur Fullstack",
-      "startDate": "2014-01-31",
-      "endDate": "2015-01-31",
-      "highlights": [
-        "Mettre en place l'architecture de la nouvelle application.",
-        "Faire monter en compétence technique l'équipe."
+        "En clientèle chez April, commerçant en assurance public et privée. <br><br>💻 Développement de l'interface de vente destinée aux courtiers, tout produits.<br>🖼️ Développement de parcours de vente grand public pour les assurances prof, obsèques ou prêt.<br>💽 Participation occasionnel aux API .NET et Scala.<br>🔧 <b>Angular.JS</b> , Bootstrap, Jasmine."
       ]
     },
     {
       "company": "CGI",
       "position": "Développeur Full-Stack",
       "startDate": "2006-01-31",
-      "endDate": "2013-01-31",
+      "endDate": "2014-01-31",
       "highlights": [
-        "Projet de grande ampleur.",
-        "Intervention principalement en build sur des équipes de 4-5 développeurs.",
-        "Intervention au comité d'architecture du projet."
+        "Participation à de nombreux projets dans des cadres variés : <br>- Nouvelles applications<br>- Évolution d'applications existantes<br>- Audit et Refonte technique<br>- Maintenance logicielle et corrective. <br>- Accompagnement de ressource Junior. <br><br>J'ai débuté en tant que développeur Junior jusqu'à prendre le rôle de Lead et d'expert Technique. Mon investissement m'a permis de rejoindre la team d'architecture CGI.<br><br>Client depuis l'agence : Carrefour, April International, SNCF, April International<br>Type de projet : Outils de gestion entrepôt. ERP."
       ]
     },
     {
@@ -105,19 +91,43 @@
   "skills": [
     {
       "name": "Langages de programmation",
-      "keywords": ["Typescript", "Java", "Scala", "PHP"]
+      "keywords": [
+        "<span style='color:bisque'>Typescript</span>",
+        "<span style='color:bisque'>Java</span>",
+        "Scala",
+        "PHP"
+      ]
     },
     {
       "name": "Frameworks Front-End",
-      "keywords": ["Angular", "React"]
+      "keywords": [
+        "<span style='color:bisque'>Angular</span>",
+        "React",
+        "Svelte",
+        "Vue.JS"
+      ]
+    },
+    {
+      "name": "Librairie Front-End",
+      "keywords": [
+        "<span style='color:bisque'>NGRX</span>",
+        "<span style='color:bisque'>NGXS</span>",
+        "<span style='color:bisque'>JEST</span>",
+        "Angular Material",
+        "PrimeNG"
+      ]
     },
     {
       "name": "Frameworks Back-End",
-      "keywords": ["Spring"]
+      "keywords": ["<span style='color:bisque'>Spring</span>", "JEE"]
     },
     {
       "name": "Développement Web",
-      "keywords": ["HTML", "CSS", "Responsive"]
+      "keywords": ["HTML", "CSS", "Responsive", "Accessibilité"]
+    },
+    {
+      "name": "Outils",
+      "keywords": ["Git", "AWS Cloud", "Storybook"]
     },
     {
       "name": "Méthodes",
