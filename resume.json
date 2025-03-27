@@ -4,7 +4,7 @@
     "label": "Lead-Développer 🤝 | Fullstack Angular 🚩 | Craftsman 🛠️",
     "email": "lionel@fr-zuber.fr",
     "url": "https://armaklan.org",
-    "summary": "🎨 Expert front-end Angular. \n  🛠️ Craftsman passionnée. \n  🤼🏻 Partage sa connaissance, tire l'équipe vers le haut. \n  🏗️ Cherche à produire de la valeur métier, sur le long terme. \n 📈 Cherche toujours à progresser et à s'améliorer. \n 🔧 Angular, Java, React, ... Je peut m'adapter à vos technologies !",
+    "summary": "🎨 Expert front-end Angular. \n  🛠️ Craftsman passionnée. \n  🏢 Expérimenté en amélioration de legacy \n 🤼🏻 Partage sa connaissance, tire l'équipe vers le haut. \n  🏗️ Cherche à produire de la valeur métier, sur le long terme. \n 📈 Cherche toujours à progresser et à s'améliorer. \n 🔧 Angular, Java, React, ... Je peut m'adapter à vos technologies !",
     "location": {
       "countryCode": "FR",
       "region": "Doubs"
@@ -23,6 +23,14 @@
     ]
   },
   "work": [
+    {
+      "company": "Indépendant, EDF",
+      "position": "Lead-Developeur Full-Stack",
+      "startDate": "2023-10-01",
+      "highlights": [
+        "<b>Lead au sein d'un projet autour de la GED. L'application a pour objectif de faciliter la saisie et la validation des documents dans la gestion documentaire EDF. <br>💻 Développement de <b>fonctionnalités métiers</b> sur l'applications<br>🛠️ Refactoring de l'architecture applicative et du code back et front (introduction de l'architecture hexagonale et d'évènements. <br>🔧 <b>Angular</b>, <b>Java Spring Boot</b>, Material, Jooq, MapStruct.<br><br>"
+      ]
+    },
     {
       "company": "NIJI",
       "position": "Lead Front-End",
@@ -44,7 +52,7 @@
     },
     {
       "company": "NIJI",
-      "position": "Developpeur Full-Stack en prestation chez Enedis",
+      "position": "Developeur Full-Stack en prestation chez Enedis",
       "startDate": "2018-01-01",
       "endDate": "2022-04-01",
       "highlights": [
@@ -163,14 +171,6 @@
       "keywords": ["JS", "Web"],
       "startDate": "2022-01-01",
       "url": "https://github.com/Armaklan/tylestel",
-      "type": "application"
-    },
-    {
-      "name": "Trollune.fr , jsqu'au 2018",
-      "description": "Trollune est une boutique spécialisé dans le jeu de rôle. En 2018 j'ai transformé leur site statique en site SPIP pour permettre une mise à jour plus aisée.",
-      "keywords": ["JS", "Web"],
-      "startDate": "2012-01-01",
-      "endDate": "2018-01-01",
       "type": "application"
     }
   ]

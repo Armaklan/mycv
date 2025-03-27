@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "jsonresume-theme-eloquent-fr": "LionelZu/jsonresume-theme-eloquent-fr#main",
-    "resume-cli": "^3.0.8",
+    "resume-schema": "1.0.1",
     "resumed": "^3.0.1"
   },
   "name": "lio-cv",
@@ -9,8 +9,8 @@
   "main": "index.js",
   "scripts": {
     "start": "npm run html",
-    "html": "resume export docs/lionel-zuber.html --theme eloquent-fr",
-    "pdf": "resume export docs/lionel-zuber.pdf --theme eloquent-fr",
+    "html": "resumed export resume.json -o docs/lionel-zuber.html --theme jsonresume-theme-eloquent-fr",
+    "pdf": "resumed export resume.json -o docs/lionel-zuber.pdf --theme jsonresume-theme-eloquent-fr",
     "update": "npm run html && npm run pdf"
   },
   "author": "",
